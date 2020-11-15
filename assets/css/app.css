@@ -1,0 +1,111 @@
+/* Estilizado de la pagina index */
+body{
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.login_container{
+    width: 100%;
+    height: 657px;
+    background: url("../img/fondoLogin.jpg") no-repeat;
+    background-size: cover;
+    background-position: center center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.login_bar{
+    width: 100%;
+    height: 90px;
+    background-color: #1010108c;
+}
+.logo_top{
+    width: 200px;
+    height: 90px;
+    float: left;
+    background-color: yellowgreen;
+}
+.login_button1{
+    padding: 10px;
+    width: 120px;
+    background-color: #fd2020;
+    float: right;
+    border-radius: 5px;
+    margin: 26px;
+    font-weight: bold;
+   
+}
+.content_login{
+    width: 77.7%;
+    height: 347px;
+    background-color: #1010108c;
+    position: relative;
+    padding: 110px 150px 110px 150px;
+}
+.content_login h1{
+    margin: 0 0 70px 0;
+    font-size: 50px;
+    text-transform: capitalize;
+}
+
+.content_login h3{
+    margin: 0 0 70px 0;
+    font-size: 25px;
+    text-transform: capitalize;
+}
+.register_button{
+    width: 180px;
+    padding: 10px;
+    font-weight: bold;
+    display: inline-block;
+    border-radius: 7px;
+    background-color: #fd2020;
+    font-size: 30px;
+}
+/* Estilizado de la pagina login */
+.top_description{
+    position: absolute;
+    left: 20%;
+    text-transform: capitalize;
+    margin: 26px 0;
+}
+.data_login{
+    width: 310px;
+    height: 264px;
+    background-color: #080808c2;
+    display: inline-block;
+    padding: 40px;
+    border-radius: 10px;
+    text-align: left;
+}
+.data_login h2{
+    margin: 0 0 15px 0;
+    font-size: 30px;
+}
+#usuario{
+    padding: 10px;
+    border-radius: 7px;
+    width: 92%;
+    height: 20px;
+    border: solid black;
+    margin-bottom: 15px;
+}
+#password{
+    padding: 10px;
+    border-radius: 7px;
+    width: 92%;
+    height: 20px;
+    border: solid black;
+    margin-bottom: 25px;
+}
+.login_button2{
+    padding: 15px;
+    width: 160px;
+    background-color: #fd2020;
+    border-radius: 5px;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+}
