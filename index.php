@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="./assets/css/app.css?v=0.0" media="all">
+    <link rel="stylesheet" type="text/css" href="./assets/css/app.css?v=0.1" media="all">
     <title>
         Free Movies
     </title>
@@ -29,7 +29,7 @@
         <div class="content_login">
             <h1>Encuentra todas tus <br> peliculas favoritas</h1>
             <h3>Registrate e inicia tu prueba gratuita de 30 dias</h3>
-            <a href="">
+            <a href="registro.php">
                 <div class="register_button">
                     Registrarse
                 </div>

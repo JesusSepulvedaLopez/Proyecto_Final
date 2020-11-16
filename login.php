@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="./assets/css/app.css?v=0.0" media="all">
+    <link rel="stylesheet" type="text/css" href="./assets/css/app.css?v=0.1" media="all">
     <title>
         Login
     </title>
@@ -24,7 +24,7 @@
         <!-- Aqui empieza el contenido del login de la pagina -->
         <div class="content_login">
             <div class="data_login">
-                <h2>Inicia Sesion</h2>
+                <h2 class="form_title">Inicia Sesion</h2>
                 <legend>Email o Numero de telefono</legend>
                 <input type="text" id="usuario" placeholder="Usuario">
                 <legend>Contraseña</legend>
