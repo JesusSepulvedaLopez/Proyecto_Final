@@ -29,7 +29,7 @@
                 <input type="text" id="usuario" placeholder="Usuario">
                 <legend>Contraseña</legend>
                 <input type="password" id="password" placeholder="Password">
-                <a href="">
+                <a href="inicio.php">
                     <div class="login_button2">
                         Iniciar Sesion
                     </div>

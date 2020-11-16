@@ -6,21 +6,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="./assets/css/app.css?v=0.1" media="all">
     <title>
-        Free Movies
+        Movies
     </title>
 </head>
 
 <body>
     <div class="login_container">
-        <!-- Aqui empieza la barra de login de la pagina -->
+        <!-- Aqui empieza la barra de la pagina -->
         <div class="login_bar">
             <div class="logo_top">
                 Logo Pagina
             </div>
         </div>
-        <!-- Aqui termina la barra de login de la pagina -->
+        <!-- Aqui termina la barra de la pagina -->
 
-        <!-- Aqui empieza el contenido del login de la pagina -->
+        <!-- Aqui empieza el contenido del formulario de registro de la pagina -->
         <div class="content_registry">
             <div class="registration_form">
                 <h2 class="form_title">Registrarse</h2>
@@ -43,7 +43,7 @@
                 </a>
             </div>
         </div>
-        <!-- Aqui termia el contenido del login de la pagina -->
+        <!-- Aqui empieza el contenido del formulario de registro de la pagina -->
     </div>
 </body>
 
