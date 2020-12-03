@@ -123,7 +123,8 @@ a {
     border-radius: 5px;
     font-weight: bold;
     text-align: center;
-    margin: auto;
+    margin: 0 74px;
+    font-size: medium;
 }
 
 

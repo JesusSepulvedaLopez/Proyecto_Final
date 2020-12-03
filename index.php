@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="./assets/css/app.css?v=0.1" media="all">
+    <link rel="stylesheet" type="text/css" href="./assets/css/app.css?v=0.2" media="all">
     <title>
          Movies
     </title>
@@ -17,7 +17,7 @@
             <div class="logo_top">
                 Logo Pagina
             </div>
-            <a href="login.php">
+            <a href="./login/login.php">
                 <div class="login_button1">
                     Iniciar Sesion
                 </div>
